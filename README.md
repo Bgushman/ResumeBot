@@ -3,12 +3,16 @@
 **Instructor:** Heather Conboy, University of Massachusetts Amherst  
 **Team Name:** ResumeBot  
 
-**Team Members:** * Shiven Patel / Shiven110504  
+**Team Members:** 
+
+* Shiven Patel / Shiven110504  
 * Breanna Gushman / Bgushman  
 * Khushi Rajoria / krajoria  
 * Atonbara Diete-Koki / atonbara-adora  
 
-**Links:** * **Google Drive Project Document:** [Drive Link](https://drive.google.com/drive/shared-drives1)  
+**Links:** 
+
+* **Google Drive Project Document:** [Drive Link](https://drive.google.com/drive/shared-drives1)  
 * **GitHub Repo:** [Repo Link](https://github.com/Bgushman/ResumeBot2)  
 
 ---
