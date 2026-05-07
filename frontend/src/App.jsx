@@ -1,5 +1,6 @@
 import { Routes, Route } from 'react-router-dom'
 import Header from './components/Header'
+import HomePage from './pages/HomePage'
 
 function App() {
   return (
@@ -7,7 +8,7 @@ function App() {
       <Header />
       <main className="main-content">
         <Routes>
-          <Route path="/" element={<div>Frontend scaffold</div>} />
+          <Route path="/" element={<HomePage />} />
         </Routes>
       </main>
     </div>
