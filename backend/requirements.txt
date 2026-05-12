@@ -6,3 +6,6 @@ python-multipart
 PyMuPDF
 openai
 pydantic-settings
+pytest
+pytest-cov
+httpx
